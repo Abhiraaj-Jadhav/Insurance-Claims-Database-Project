@@ -9,3 +9,6 @@ A relational database designed to manage and analyze an insurance system, featur
 - Analytical queries to calculate claim statistics.
 - Indexing for query optimization.
 - Role-based access control for Claims Analysts and Managers.
+
+## Tools Used
+- PostgreSQL PgAdmin4
